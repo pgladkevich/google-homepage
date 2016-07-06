@@ -2,4 +2,4 @@
 
 Project: HTML/CSS
 
-https://github.com/pgladkevich/google-homepage.git
+file:///Users/pgladkevich/Documents/the_odin_project/google-homepage/
